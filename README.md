@@ -3,6 +3,6 @@
   web development.
 - 👀 I’m interested in web3 and blockchain technology
 - 🌱 I’m currently learning react 
-- 📫 How to reach me on vpranjal291003@gmail.com
+- 📫 You can reach me on vpranjal291003@gmail.com
 
 
