@@ -3,6 +3,8 @@
 ║┏┓║┏━╣┗╣┗╣╰╯║      
 ╚┛┗╩━━╩━╩━╩━━╝
 
+(https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
+
 # 💫 About Me:
 Hi, I’m Pranjal Vishwakarma, a full-stack developer and problem solver passionate.
 
