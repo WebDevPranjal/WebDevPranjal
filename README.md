@@ -6,7 +6,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" />
 
 # 💫 About Me:
-Hi, I’m Pranjal Vishwakarma, a full-stack developer and problem solver passionate.
+Hi, I’m Pranjal Vishwakarma, a full-stack developer and problem solver passionate.</br></br>
+Student at IIT Guwahati
+Former Intern at Pointo
 
 
 ## 🌐 Socials:
@@ -19,10 +21,7 @@ Hi, I’m Pranjal Vishwakarma, a full-stack developer and problem solver passion
 ![](https://nirzak-streak-stats.vercel.app/?user=WebDeVPranjal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WebDeVPranjal&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WebDeVPranjal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
